@@ -54,7 +54,7 @@ li a:hover {
 .flex-container {
   display: -webkit-flex;
   display: flex;
-  width: 1500px;
+  width: 1000px;
   height: 250px;
   margin:auto;
   background-color: #111111;
